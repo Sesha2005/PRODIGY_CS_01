@@ -10,5 +10,5 @@ Interactive terminal interface
 
 Input validation and user-friendly design
 
-🧠 How It Works
+🧠 How It Works: 
 Each letter in the message is shifted by a fixed number (e.g., shift of 3: A → D, B → E, etc.). Non-alphabet characters stay unchanged.
